@@ -1,0 +1,3 @@
+﻿  C++ Project.cpp
+C:\Users\mattm\Documents\GitHub\CPP-Project\C++ Project\C++ Project.cpp(486,1): warning C4715: 'Airport::loadAirport': not all control paths return a value
+  C++ Project.vcxproj -> C:\Users\mattm\Documents\GitHub\CPP-Project\x64\Debug\C++ Project.exe
